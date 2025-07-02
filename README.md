@@ -1,3 +1,4 @@
+
 ---
 
 ## 🧠 How to Install Cursor AI on Ubuntu
